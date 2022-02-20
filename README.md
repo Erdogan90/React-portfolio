@@ -1,34 +1,106 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Hi, I'm Erdogan! 👋
 
-First, run the development server:
+I'm currently on a 16 week bootcamp course with the School of code.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Over the past 12 weeks I've learned a lot!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Frontend
+- Backend
+- JS
+- React
+- Css
+- UX/UI
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Those are just a few of them. 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+One of the most interesting lessons I had was on UX/UI.
+I found the lesson so Fascinating. 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+But the question is what really is UX/UI design? And how can we be better at it?
 
-## Learn More
+This is the question I hope to answer with this Repo.
 
-To learn more about Next.js, take a look at the following resources:
+![ketchup](https://miro.medium.com/max/700/1*EtDozx2EpMl3WlG1zCzfLw.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+# What is UX and what is UI
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+_“User experience encompasses all aspects of the end-user’s interaction with the company, its services, and its products.”_
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The term user experience originated in the early 1990s at Apple when cognitive psychologist Donald Norman joined the staff.
+
+He stated the above quote.
+
+UX applies to anything that can be experienced—be it a website, a coffee machine, or a visit to the supermarket. 
+
+The “user experience” part refers to the interaction between the user and a product or service
+
+## What about UI?
+
+UI stands for User Interface
+
+Unlike UX, user interface design is a strictly digital term. A user interface is the point of interaction between the user and a digital device or product
+
+I've added an image below to show us all the difference between the two.
+
+If you want to see the difference between the 2 in more detail i would recommend 
+[this article](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
+
+![UX vs UI image](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/difference-between-ux-and-ui.jpg)
+
+
+# So what? 
+
+Well let me tell you what.
+
+Very often these 2 get mixed up or people do parts of each one or part of only one and see that as 
+"My work on the Design and research of the application is now complete".
+
+As new Developers, future UX designers or future UI Designers we really do need to pay attention and ensure we are doing the design and research
+of an application or software it's justice. 
+
+We need to investigate and research correctly to each point to ensure we get exactly what we need to help us with every project.
+
+### Being better.
+
+I want to give what I believe to be the basic principles of UX and UI Design. To help Any new or existing Developers and Designers.
+
+- Focusing on the user more than the project
+- Asking every question you believe to be relevant 
+- Questioning the feeling and journey the user needs to take and wants to take.
+- Not Jumping to Wireframing and prototyping.
+- Researching into expectations for the project from both the Client and the User
+- Nothing the user states is irrelevant 
+- Being able to walk away from a low fidelity wireframe and starting it again. 
+
+I have found 2 fantastic articles that Really do break the process of UX design down.
+
+[Article 1](https://www.invisionapp.com/inside-design/6-stages-ux-process/)
+[Article 2](https://uxdesign.cc/the-12-step-designers-journey-694de2568153)
+
+
+
+
+
+
+
+
+
+## The Project
+
+This currently may not be a project that we can all Clone down and edit few lines of code But this is a project for us all to ADD Principles and Articles.
+Or even Comment and share to Make the future of UX?UI Design even better
+
+
+
+
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Clone down and add to the `Readme.md`
