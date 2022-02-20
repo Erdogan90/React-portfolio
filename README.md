@@ -104,3 +104,10 @@ Or even Comment and share to Make the future of UX?UI Design even better
 Contributions are always welcome!
 
 Clone down and add to the `Readme.md`
+
+## Acknowledgements
+
+ - [The Fascinating History of UX Design](https://careerfoundry.com/en/blog/ux-design/the-fascinating-history-of-ux-design-a-definitive-timeline/)
+ - [The Difference Between UX and UI Design](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
+ - [Journey of a UX/UI Designer](https://blog.prototypr.io/my-journey-as-ui-ux-designer-678779a1d709)
+ - [6 Stages of UI Design](https://www.youtube.com/watch?v=_6Tl2_eM0DE)
