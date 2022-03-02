@@ -21,6 +21,8 @@ But the question is what really is UX/UI design? And how can we be better at it?
 
 This is the question I hope to answer with this Repo.
 
+As well as show some of my work so far in understanding user, Building and creating low/high Fidelity work.
+
 ![ketchup](https://miro.medium.com/max/700/1*EtDozx2EpMl3WlG1zCzfLw.png)
 
 
