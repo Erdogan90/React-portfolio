@@ -11,7 +11,7 @@ Over the past 12 weeks I've learned a lot!
 - React
 - Css
 - UX/UI
-- -
+- 
 
 Those are just a few of them. 
 
